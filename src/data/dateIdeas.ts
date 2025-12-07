@@ -42,7 +42,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Arrive early afternoon to explore, then time dinner for sunset. Book a window table at The Breakwater for unobstructed ocean views. Pack a light jacket as it can get breezy by the water. Free parking available.",
     website: "https://www.hillarysboardwalk.com.au/",
     googleMaps: "https://maps.google.com/?q=Hillarys+Boat+Harbour",
-    imageUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hillary%27s_Boat_Harbour%2C_Perth_Western_Australia.jpg/800px-Hillary%27s_Boat_Harbour%2C_Perth_Western_Australia.jpg",
     tags: ["sunset", "waterfront", "dining", "walking", "ocean"]
   },
   {
@@ -67,7 +67,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Bring water and wear comfortable shoes. Early morning = less crowded + beautiful sunrise light. Dusk = romantic sunset from the top. Take your time on the climb and enjoy the achievement together. Kings Park has many secluded spots for quiet conversations.",
     website: "https://www.bgpa.wa.gov.au/kings-park",
     googleMaps: "https://maps.google.com/?q=Jacobs+Ladder+Perth",
-    imageUrl: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kings_Park_War_Memorial_Sunrise.jpg/800px-Kings_Park_War_Memorial_Sunrise.jpg",
     tags: ["hiking", "views", "free", "exercise", "nature"]
   },
   {
@@ -93,7 +93,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Bring a blanket and picnic supplies. Free parking fills fast - arrive early or take bus 102 from Elizabeth Quay. Pack a light jacket as it can be windy. The grassy banks are perfect for spreading out and having quiet conversations while watching the sunset magic unfold.",
     website: "https://www.westernaustralia.com/en/attraction/cottesloe-beach",
     googleMaps: "https://maps.google.com/?q=Cottesloe+Beach+Perth",
-    imageUrl: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cottesloe_Beach%2C_Perth%2C_Western_Australia_%284431664542%29.jpg/800px-Cottesloe_Beach%2C_Perth%2C_Western_Australia_%284431664542%29.jpg",
     tags: ["beach", "sunset", "free", "picnic", "ocean"]
   },
   {
@@ -119,7 +119,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Book a small-group tour (max 10 guests) for intimate experience - Best of Perth Tours highly rated. Lancaster Wines has a famous outdoor tasting shed under old vines. Upper Reach Winery has riverside walks. Tours include transportation, so no designated driver needed - relax and enjoy together.",
     website: "https://www.swanvalley.com.au/",
     googleMaps: "https://maps.google.com/?q=Swan+Valley+Western+Australia",
-    imageUrl: "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Centenary_stone_ellenbrook_swanriver.jpg/800px-Centenary_stone_ellenbrook_swanriver.jpg",
     tags: ["wine", "food", "romantic", "day-trip", "luxury"]
   },
   {
@@ -145,7 +145,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Combine markets + sunset beach picnic for a full romantic day. Pack light for walking. La Lune is decidedly romantic with Parisian charm. Vin Populi has daily-changing chalkboard menu (reservations recommended). South Beach Sunset Market = live music + ocean sunset + wine - incredibly romantic for new couples.",
     website: "https://www.fremantlemarkets.com.au/",
     googleMaps: "https://maps.google.com/?q=Fremantle+Markets+Perth",
-    imageUrl: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Freo_Markets_sign_in_2013.jpg/800px-Freo_Markets_sign_in_2013.jpg",
     tags: ["markets", "culture", "food", "bohemian", "historic"]
   },
   {
@@ -171,7 +171,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "South Perth Foreshore Zones 1-4, 9, 11, 12 are popular for intimate setups. Matilda Bay is quieter and has more shady trees. Arrive early afternoon to claim a prime spot. BYO picnic blanket, wine, cheese, and charcuterie. City skyline at sunset = Instagram-worthy + deeply romantic. Both spots well-lit at night for safe evening strolls.",
     website: "https://www.southperth.wa.gov.au/",
     googleMaps: "https://maps.google.com/?q=South+Perth+Foreshore",
-    imageUrl: "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg/800px-Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg",
     tags: ["picnic", "skyline", "free", "romantic", "sunset"]
   },
   {
@@ -197,7 +197,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Combine gallery visit with drinks at rooftop bar for sunset views. Check for immersive exhibitions (e.g., Rone's TIME exhibition had exclusive Perth installations). The Brutalist architecture is striking for photos. Free entry to permanent collection = budget-friendly. Perfect rainy day date or cool evening activity.",
     website: "https://artgallery.wa.gov.au/",
     googleMaps: "https://maps.google.com/?q=Art+Gallery+Western+Australia",
-    imageUrl: "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Art_Gallery_of_WA.jpg/800px-Art_Gallery_of_WA.jpg",
     tags: ["art", "culture", "free", "indoor", "sophisticated"]
   },
   {
@@ -223,7 +223,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Pack a light jacket (can be windy). The carousel is genuinely romantic with Italian designs and beautiful music. Book a sunset cocktail spot with river views. The ferry to South Perth is a cheap, romantic mini-adventure. Best visited at night when it's less crowded and the lighting creates magic.",
     website: "https://www.elizabethquay.com.au/",
     googleMaps: "https://maps.google.com/?q=Elizabeth+Quay+Perth",
-    imageUrl: "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Elizabeth_Quay_June_2018_b.jpg/800px-Elizabeth_Quay_June_2018_b.jpg",
     tags: ["city", "waterfront", "evening", "romantic", "carousel"]
   },
   {
@@ -249,7 +249,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Book ferry in advance. BYO picnic (food expensive on island). Rent bikes together and explore - most romantic spots: The Basin, Salmon Bay. Quokkas friendliest near main settlement (fresh water). Illegal to touch/feed but they come close for photos. Stay for sunset at Thomsons Rottnest with cocktails. This is a FULL adventure day - wear sunscreen and comfy shoes!",
     website: "https://www.rottnestisland.com/",
     googleMaps: "https://maps.google.com/?q=Rottnest+Island",
-    imageUrl: "https://images.unsplash.com/photo-1578950435899-d1c1bf932ab2?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Basin%2C_Rottnest_Island.jpg/800px-The_Basin%2C_Rottnest_Island.jpg",
     tags: ["adventure", "island", "quokkas", "beaches", "cycling"]
   },
   {
@@ -275,7 +275,7 @@ export const dateIdeas: DateIdea[] = [
     tipsForSpecial: "Arrive early for romantic picnic on back lawn surrounded by wilderness and kangaroos. Valentine's Night Tour is explicitly designed for couples. Dress warmly (Hills get cold at night). Book dark sky night for best views. If cloudy, still get facility tour + presentation + 50% discount for future visit. The shared wonder of viewing galaxies together is profoundly connecting.",
     website: "https://www.perthobservatory.com.au/",
     googleMaps: "https://maps.google.com/?q=Perth+Observatory+Bickley",
-    imageUrl: "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Perth_Observatory-dome.jpg/800px-Perth_Observatory-dome.jpg",
     tags: ["stargazing", "unique", "romantic", "educational", "nature"]
   }
 ];
